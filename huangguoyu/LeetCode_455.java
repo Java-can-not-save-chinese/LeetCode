@@ -59,6 +59,9 @@ class Solution {
     }
 
 
+    /**
+        返回结果代表是否进位
+    */
     public ListNode dfs(ListNode node) {
         ListNode root;
         if (node == null)
