@@ -26,7 +26,7 @@ package LeetCode.xinchengzhu;
 public class LeetCode231 {
 
     public static void main(String[] args) {
-        System.out.println(isPowerOfTwo(-2147483648));
+        System.out.println(isPowerOfTwo2(4096));
     }
     /***
      *
@@ -54,6 +54,20 @@ public class LeetCode231 {
                 isTrue = true;
             }
         }
+        return isTrue;
+    }
+
+
+    public static boolean isPowerOfTwo2(int n) {
+        if(n <=0 ){
+            return false;
+        }
+        boolean isTrue = false;
+
+        if((n & (n-1)) == 0){
+            isTrue  = true;
+        }
+
         return isTrue;
     }
 }
