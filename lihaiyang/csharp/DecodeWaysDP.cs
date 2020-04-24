@@ -1,4 +1,4 @@
-// DecodeWays.cs
+// DecodeWaysDP.cs
 // Author: hyan23
 // 2020.04.13
 // https://leetcode.com/problems/decode-ways/
