@@ -28,6 +28,11 @@ namespace csharp
             }
             return head;
         }
+        
+        public static string StringJoin(this int[] arr)
+        {
+            return string.Join(", ", arr);
+        }
 
         public static int[] ToArray(this ListNode head)
         {
