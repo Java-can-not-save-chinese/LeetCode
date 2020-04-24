@@ -1,4 +1,4 @@
-// BitwiseANDofNumbersRange.cs
+// SubarraySumEqualsK.cs
 // Author: hyan23
 // 2020.04.24
 // https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3307/
