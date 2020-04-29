@@ -1,10 +1,10 @@
-// MaximalRectangle.cs
+// MaximalSquare.cs
 // Author: hyan23
 // 2020.04.29
-// https://leetcode.com/problems/maximal-rectangle/
+// https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3312/
 
-// Runtime: 156 ms, faster than 6.50% of C# online submissions for Maximal Rectangle.
-// Memory Usage: 28.9 MB, less than 100.00% of C# online submissions for Maximal Rectangle.
+// Runtime: 148 ms
+// Memory Usage: 28.8 MB
 
 using System;
 
@@ -21,7 +21,7 @@ namespace csharp
         {
         }
 
-        public int MaximalRectangle(char[][] matrix)
+        public int MaximalSquare(char[][] matrix)
         {
             int m = matrix.Length;
             if (m == 0)
@@ -56,7 +56,8 @@ namespace csharp
                         tmp = row[k] == (char)1 ? tmp + 1 : 0;
                         cnt = Math.Max(cnt, tmp);
                     }
-                    maxArea = Math.Max(maxArea, cnt * (j - i + 1));
+                    int edge = Math.Min(cnt, j - i + 1);
+                    maxArea = Math.Max(maxArea, edge * edge);
                 }
             }
 
