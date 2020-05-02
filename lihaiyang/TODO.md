@@ -18,3 +18,4 @@
 [ ] Optimize CombinationSumII.cs
 [ ] Optimize FirstMissingPositive.cs
 [ ] Optimize Implement_strStr.cs
+[ ] Optimize ProductOfArrayExceptSelf.cs
