@@ -11,6 +11,7 @@
 [ ] https://leetcode.com/problems/largest-rectangle-in-histogram/
 [ ] https://leetcode.com/problems/maximal-rectangle/
 [ ] https://leetcode.com/problems/scramble-string/
+[ ] https://leetcode.com/problems/binary-tree-maximum-path-sum/
 
 # Optimizations
 
