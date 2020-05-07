@@ -12,6 +12,7 @@
 [ ] https://leetcode.com/problems/maximal-rectangle/
 [ ] https://leetcode.com/problems/scramble-string/
 [ ] https://leetcode.com/problems/binary-tree-maximum-path-sum/
+[ ] https://leetcode.com/problems/path-sum-iii/
 
 # Optimizations
 
