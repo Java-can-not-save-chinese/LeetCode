@@ -33,9 +33,8 @@ public class LeetCode_345 {
 
     public static String reverseVowels(String s) {
         List<Integer> indexList = new LinkedList<>();
-        char yuan[] = {'a','e','i','o','u','A','E','I','O','U'};
         StringBuilder sb = new StringBuilder();
-        String yuanyin = String.valueOf(yuan);
+        String yuanyin = "aeiouAEIOU";
         for(int i=0; i<s.length(); i++){
             //idnexList.set(index,0);
             if(yuanyin.indexOf(s.charAt(i)) != -1){
