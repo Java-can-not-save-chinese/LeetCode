@@ -1,3 +1,6 @@
+/**
+    注释
+*/
 class Solution {
     public int twoCitySchedCost(int[][] costs) {
         Arrays.sort(costs, new Comparator<int[]>() {
