@@ -44,4 +44,5 @@
 
 # VS Code
 ipch/
-.vscode
+.vscode/
+.idea/
