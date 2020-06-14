@@ -4,7 +4,7 @@
 // https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
 // Runtime: 4 ms, faster than 87.79% of C++ online submissions for Kids With the Greatest Number of Candies.
-// Memory Usage : 8.9 MB, less than 100.00 % of C++ online submissions for Kids With the Greatest Number of Candies.
+// Memory Usage: 8.9 MB, less than 100.00 % of C++ online submissions for Kids With the Greatest Number of Candies.
 
 #include <iostream>
 #include <vector>

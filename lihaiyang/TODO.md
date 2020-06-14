@@ -17,8 +17,10 @@
 
 # Optimizations
 
-[ ] Optimize CombinationSum.cs
-[ ] Optimize CombinationSumII.cs
-[ ] Optimize FirstMissingPositive.cs
-[ ] Optimize Implement_strStr.cs
-[ ] Optimize ProductOfArrayExceptSelf.cs
+[ ] CombinationSum.cs
+[ ] CombinationSumII.cs
+[ ] FirstMissingPositive.cs
+[ ] Implement_strStr.cs
+[ ] ProductOfArrayExceptSelf.cs
+[ ] LongestWordInDictionary.cpp
+[ ] FindPivotIndex.cpp
