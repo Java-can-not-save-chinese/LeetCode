@@ -6,15 +6,14 @@
 // <Analysis>
 
 #include <iostream>
+#include <vector>
+#include <algorithm>
 
 using namespace std;
 
 // Paste the solution class here
 
-int main(int argc, char *argv[])
+int main(void)
 {
-    (void)argc;
-    (void)argv;
-
     return 0;
 }

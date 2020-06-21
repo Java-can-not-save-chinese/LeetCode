@@ -11,11 +11,16 @@
 [ ] https://leetcode.com/problems/largest-rectangle-in-histogram/
 [ ] https://leetcode.com/problems/maximal-rectangle/
 [ ] https://leetcode.com/problems/scramble-string/
+[ ] https://leetcode.com/problems/binary-tree-maximum-path-sum/
+[ ] https://leetcode.com/problems/path-sum-iii/
+[ ] https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3349/
 
 # Optimizations
 
-[ ] Optimize CombinationSum.cs
-[ ] Optimize CombinationSumII.cs
-[ ] Optimize FirstMissingPositive.cs
-[ ] Optimize Implement_strStr.cs
-[ ] Optimize ProductOfArrayExceptSelf.cs
+[ ] CombinationSum.cs
+[ ] CombinationSumII.cs
+[ ] FirstMissingPositive.cs
+[ ] Implement_strStr.cs
+[ ] ProductOfArrayExceptSelf.cs
+[ ] LongestWordInDictionary.cpp
+[ ] FindPivotIndex.cpp
