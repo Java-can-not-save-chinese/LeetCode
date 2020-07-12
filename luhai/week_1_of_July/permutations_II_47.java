@@ -11,6 +11,7 @@ class Solution {
         if(list.size() == nums.length){
             result.add(new ArrayList<>(list));
         }
+        //第i个位置出现了某个元素之后相同元素不可以再在这个位置出现
         boolean[] repeated = new boolean[nums.length];
         for(int i = 0; i < nums.length; i++){
             if(!marked[i] && !repeated[i]){
